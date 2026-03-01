@@ -4,8 +4,6 @@ I am excited to practice building a TypeScript app build with React + Vite proje
 
 This first iteration uses a modified react-ts template from vite to print "Hello World!" It is a proof of concept to set up the initial repository.
 
-[Demo](http://youtube.link.goes.here)
-
 # Development Environment
 
 - TypeScript
